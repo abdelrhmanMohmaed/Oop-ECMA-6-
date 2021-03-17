@@ -57,7 +57,8 @@ body {
 }
 
 .inside>div {
-    height: 55%;
+    height: 55vh;
+    padding-bottom: 10px;
 }
 
 .outside {
